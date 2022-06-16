@@ -73,7 +73,7 @@ dt.predict([[5,6]])
 
 ![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/23.png?raw=true)
 
-![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/24.pngs2?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/24.png?raw=true)
 
 
 ![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/25.png?raw=true)
