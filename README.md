@@ -29,7 +29,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 10.Apply the metrics to the dataset.
 
 11.Predict the output for the required values.
-
+```
 Program:
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
@@ -67,19 +67,20 @@ r2= metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
+```
 ## Output:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/22.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/23.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/24.pngs2?raw=true)
 
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/25.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/26.png?raw=true)
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/27d.png?raw=true)
 
 
 ## Result:
